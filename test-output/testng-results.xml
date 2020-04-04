@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3374" started-at="2020-03-20T05:34:15Z" finished-at="2020-03-20T05:34:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3374" started-at="2020-03-20T05:34:15Z" finished-at="2020-03-20T05:34:19Z">
+      <class name="RestAssuredDemo.RestAssuredDemo.Getclass">
+        <test-method status="PASS" signature="getUserDetailsTest()[pri:0, instance:RestAssuredDemo.RestAssuredDemo.Getclass@29ee9faa]" name="getUserDetailsTest" duration-ms="3348" started-at="2020-03-20T11:04:15Z" finished-at="2020-03-20T11:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetailsTest -->
+      </class> <!-- RestAssuredDemo.RestAssuredDemo.Getclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
